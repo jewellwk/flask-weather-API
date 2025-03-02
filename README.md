@@ -13,7 +13,10 @@ Ensure you have the following installed:
 ### Using the OpenWeatherMap API
 
 1. **Obtain an API key** 
-    -> Go to [OpenWeatherMap](https://openweathermap.org/price) and get an API key.
+    -> Go to [OpenWeatherMap](https://openweathermap.org/price) and get an API key. Click API from the top menu and select the Current Weather Data API. The website will prompt you to subscribe but you do **NOT** need to. Scroll down until you see the free option to get an API key.
+    #### Reference Images:
+    ![Reference 1](sample_screenshots/CurrentWeatherData.png)
+    ![Reference 2](sample_screenshots/FREEAPIKEY.png)
 2. **Test your API key**
     -> You should validate that the API key is working correctly by entering the following URL in a browser with YOUR_API_KEY replaced with your actual API key:
 
@@ -41,9 +44,9 @@ Ensure you have the following installed:
 - `.flaskenv` Stores the environment variables that act as the configuration settings for the Flask application.
 
 ### Screenshot Examples:
-![alt text](sample_screenshots/image.png)
-![alt text](sample_screenshots/image-1.png)
-![alt text](sample_screenshots/image-2.png)
+![Example 1](sample_screenshots/image.png)
+![Example 2](sample_screenshots/image-1.png)
+![Example 3](sample_screenshots/image-2.png)
 
 ---
 
